@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ESP32-Weather_Station"
+		},
+		{
+			"name": "esp32_TX_Weather_Station",
+			"path": "esp32_TX_Weather_Station"
+		},
+		{
+			"name": "esp8266_RX_Ground_Station",
+			"path": "esp8266_RX_Ground_Station"
+		}
+	],
+	"settings": {}
+}
